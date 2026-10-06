@@ -6,7 +6,6 @@ namespace KT_18_LambdaExpressions
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("==================================================");
             Console.WriteLine("  КТ №18: Лямбда-выражения (Вариант 1)           ");
